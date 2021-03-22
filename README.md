@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 📈 Github stats
 [![Krausso's github stats](https://github-readme-stats.vercel.app/api?username=e6voe9&count_private=true&show_icons=true&theme=graywhite&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e6voe9&theme=graywhite&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
