@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 
 ## Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e6voe9&theme=graywhite&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e6voe9&repo=e6voe9)](https://github.com/anuraghazra/github-readme-stats)
