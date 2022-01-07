@@ -1,4 +1,4 @@
-### Hello, my name is George
+### Hello, my name is George.
 I'm frontend developer from Ukraine.
 
 <!--
