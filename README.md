@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![E6voe9's github stats](https://github-readme-stats.vercel.app/api?username=rozhkoy&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![E6voe9's github stats](https://github-readme-stats.vercel.app/api?username=e6voe9&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
 
