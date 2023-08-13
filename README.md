@@ -1,5 +1,5 @@
-# Hello, my name is George😀.
-I'm frontend developer from Ukraine.
+# Hello, my name is George 😀.
+Passionate about creating useful projects.
 
 <!--
 **e6voe9/e6voe9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 
 <br><br>
-📫 How to reach me: https://t.me/e6voe9
+📫 Reach me: https://t.me/e6voe9
