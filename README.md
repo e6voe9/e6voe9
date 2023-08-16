@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 
 <br><br>
-📫 Reach me: https://t.me/e6voe9
+📫 Contact me: https://t.me/e6voe9
