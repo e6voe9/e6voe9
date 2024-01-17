@@ -7,13 +7,13 @@
 
 <h4><a href="https://andr0meda.io/">Andr0meda Systems</a></h4>
       
-*Contribution:* Created frontend application on my own, using `next.js` (pages router) with seo in mind. Styled with custom theme created based off `tailwind`. 
+Created frontend application on my own, using `next.js` (pages router) with seo in mind. Styled with custom theme created based off `tailwind`. 
 
 ### Vue
 
 <h4><a href="https://rotgar.e6voe9.com/en/">Rotgar GameFi</a></h4>
       
-*Contribution:* Fully responsive website created using `nuxt.js` for good seo. It has internationalization feature and optimized images.
+Fully responsive website created using `nuxt.js` for good seo. It has internationalization feature and optimized images.
 
 ### Open Source
 
