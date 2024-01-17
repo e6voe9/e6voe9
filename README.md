@@ -17,8 +17,8 @@ Fully responsive website created using `nuxt.js` for good seo. It has internatio
 
 ### Open Source
 
-- <a href="https://github.com/maxdemaio/chess-heat">chessheat</a>
-- <a href="https://github.com/rozhkoy/best-tic-tac-toe">best-tic-tac-toe</a>
+- <a href="https://github.com/maxdemaio/chess-heat">chessheat</a> `javascript`
+- <a href="https://github.com/rozhkoy/best-tic-tac-toe">best-tic-tac-toe</a> `react`, `typescript`
 
 ### Static websites
 
