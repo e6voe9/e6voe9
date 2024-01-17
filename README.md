@@ -18,6 +18,7 @@
 ### Open Source
 
 - <a href="https://github.com/maxdemaio/chess-heat">chessheat</a>
+- <a href="https://github.com/rozhkoy/best-tic-tac-toe">best-tic-tac-toe</a>
 
 ### Static websites
 
