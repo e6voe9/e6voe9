@@ -7,7 +7,7 @@
 
 <h4><a href="https://andr0meda.io/">Andr0meda Systems</a></h4>
       
-Created frontend application on my own, using `next.js` (pages router) with seo in mind. Styled with custom theme created based off `tailwind`. 
+Created frontend application on my own, using `next.js` (pages router) with seo in mind. Styled with custom theme created based off `tailwind`. Data fetching implemented using `graphql`.
 
 ### Vue
 
