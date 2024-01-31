@@ -43,7 +43,6 @@ All projects in this section are my freelance clients' websites.
 | Dailiness | `html` `javascript` `scss` `BEM` `swiper` | [view](https://www.sodaze.com/dailiness/) |
 | StartUp Academy Opendoors | `html` `javascript` `scss` `BEM` `swiper` | [view](https://opendoors.startup-academy.com.ua/) |
 | Dogelonmars | `html` `javascript` `scss` `BEM` `swiper`| [view](https://dogelonmars.com/) |
-| Sbercoin | `html` `javascript` `scss` `BEM` | [view](http://y96179bv.beget.tech/projects/sbercoin/) |
 
 ## Contacts
 Linkedin: [https://www.linkedin.com/in/georgiy-bahanovych/](https://www.linkedin.com/in/georgiy-bahanovych/) <br>
