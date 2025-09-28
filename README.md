@@ -3,12 +3,6 @@
 ## Projects
 
 
-### React
-
-<h4><a href="https://andr0meda.io/">Andr0meda Systems</a></h4>
-      
-Frontend application built using `next.js` (pages router) with seo in mind. Styled with custom theme created based off `tailwind`. Data fetching implemented using `graphql`.
-
 ### Vue
 
 <h4><a href="https://rotgar.e6voe9.com/en/">Rotgar GameFi</a></h4>
